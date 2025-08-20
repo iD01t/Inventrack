@@ -1,0 +1,12 @@
+{
+  "name": "inventrack",
+  "version": "1.0.0",
+  "description": "Smart inventory and theft prevention system for store and warehouse management.",
+  "main": "backend/app.js",
+  "scripts": {
+    "start": "node backend/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
