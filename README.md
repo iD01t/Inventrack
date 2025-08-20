@@ -1,11 +1,3 @@
-# Great — it looks like you're planning to host the project at:
-
-👉 **`https://github.com/id01t/Inventrack`**
-
-Here's how you can polish and set up your GitHub repo effectively with that name and URL:
-
----
-
 ## ✅ Repository Setup Plan for `Inventrack`
 
 ### 📁 Repo URL
@@ -77,15 +69,3 @@ Inventrack/
 ├── LICENSE
 ├── README.md
 └── package.json or requirements.txt
-```
-
----
-
-### ✅ Next Steps You Might Want Help With:
-
-* A working backend (Node.js or Django)?
-* Basic frontend UI (React or Flutter)?
-* Live deployment (e.g., on Vercel, Heroku, or Render)?
-* Design a simple logo for your app?
-
-Let me know which one you'd like to work on next, and I’ll guide or generate the boilerplate for you.
